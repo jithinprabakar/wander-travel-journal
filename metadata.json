@@ -1,0 +1,6 @@
+{
+  "name": "Wander",
+  "description": "Premium travel journal app with liquid-glass aesthetic, interactive timeline, moment creation, and trip maps.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
